@@ -1,2 +1,3 @@
 # ezgibaylamm.github.io
-Personal portfolio and project showcase of Ezgi Baylam
+My personal portfolio website → https://ezgibaylamm.github.io
+
