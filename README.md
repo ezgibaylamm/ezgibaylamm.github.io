@@ -1,2 +1,2 @@
-# ezgibaylam.github.io
+# ezgibaylamm.github.io
 Personal portfolio and project showcase of Ezgi Baylam
